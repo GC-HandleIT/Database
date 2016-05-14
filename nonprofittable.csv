@@ -1,3 +1,4 @@
-"id";"name";"password";"link";"contact_person";"email_address";"focus";"location";"project_type";"project_description"
-1;"Penguicon";"";"2016.pencuicon.org";"Scott Kennedy";"volunteers@penguicon.org";"Science & Technology";"";"database";"Volunteer database that allows for scheduling"
-2;"Jessica's Fruit Stand";"a password";"link here";"Jessica";"jessica@fruitstand.com";"Fruist";"Ann Arbor, MI";"Web app";"Java"
+"name";"password";"link";"contact_person";"email_address";"focus";"location";"project_type";"project_description"
+"Penguicon";"";"2016.pencuicon.org";"Scott Kennedy";"volunteers@penguicon.org";"Science & Technology";"";"database";"Volunteer database that allows for scheduling"
+"Jessica's Fruit Stand";"a password";"link here";"Jessica";"jessica@fruitstand.com";"Fruist";"Ann Arbor, MI";"Web app";"Java"
+"Detroit Area Diaper Bank";"diaper";"www.dadb.org";"Mary Beth Lavine";"marybeth.@dadb.org";"children";"canton, mi";"database";"I would like a database for donations. "
